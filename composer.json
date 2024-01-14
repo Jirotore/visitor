@@ -1,0 +1,14 @@
+{
+  "require": {
+    "ext-pdo": "*",
+    "slim/slim": "4.*",
+    "ext-json": "*",
+    "slim/psr7": "^1.6",
+    "nyholm/psr7": "^1.8",
+    "nyholm/psr7-server": "^1.1",
+    "guzzlehttp/psr7": "^1",
+    "sapphirecat/slim4-http-interop-adapter": "^1.1",
+    "laminas/laminas-diactoros": "^3.3",
+    "ext-redis": "*"
+  }
+}
